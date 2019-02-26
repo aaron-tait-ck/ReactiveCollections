@@ -1034,6 +1034,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raccommunity.ReactiveCollectionsTests;
 				PRODUCT_NAME = ReactiveCollectionsTests;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -1050,6 +1051,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raccommunity.ReactiveCollectionsTests;
 				PRODUCT_NAME = ReactiveCollectionsTests;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -1339,6 +1341,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raccommunity.ReactiveCollectionsTests;
 				PRODUCT_NAME = ReactiveCollectionsTests;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
@@ -1526,6 +1529,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raccommunity.ReactiveCollectionsTests;
 				PRODUCT_NAME = ReactiveCollectionsTests;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
